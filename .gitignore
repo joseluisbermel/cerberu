@@ -1,0 +1,8 @@
+*.tmp
+/composer.lock
+
+/.idea/
+/vendor/
+
+/nbproject/*
+/.env
